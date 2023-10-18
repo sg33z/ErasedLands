@@ -1,0 +1,112 @@
+[12:06:22] [main/INFO]: Setting user: sg33z
+[12:06:25] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:06:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Erased Land's
+[12:06:47] [Sound Library Loader/INFO]: Sound engine started
+[12:06:51] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[12:06:51] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[12:06:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Erased Land's
+[12:06:52] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:06:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:06:53] [Sound Library Loader/INFO]: Sound engine started
+[12:07:26] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:07:26] [Server thread/INFO]: Generating keypair
+[12:07:26] [Server thread/INFO]: Converting map!
+[12:07:26] [Server thread/INFO]: Scanning folders...
+[12:07:26] [Server thread/INFO]: Total conversion count is 0
+[12:07:27] [Server thread/INFO]: Preparing start region for level 0
+[12:07:28] [Server thread/INFO]: Preparing spawn area: 4%
+[12:07:29] [Server thread/INFO]: Preparing spawn area: 13%
+[12:07:30] [Server thread/INFO]: Preparing spawn area: 19%
+[12:07:31] [Server thread/INFO]: Preparing spawn area: 26%
+[12:07:32] [Server thread/INFO]: Preparing spawn area: 39%
+[12:07:33] [Server thread/INFO]: Preparing spawn area: 52%
+[12:07:34] [Server thread/INFO]: Preparing spawn area: 67%
+[12:07:35] [Server thread/INFO]: Preparing spawn area: 81%
+[12:07:36] [Server thread/INFO]: Preparing spawn area: 97%
+[12:07:36] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:07:38] [Server thread/INFO]: sg33z[local:E:83ac55e1] logged in with entity id 289 at (243.5, 66.0, 124.5)
+[12:07:38] [Server thread/INFO]: sg33z joined the game
+[12:07:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2807ms behind, skipping 56 tick(s)
+[12:08:02] [Server thread/INFO]: [sg33z: Given [item.wand.name] * 1 to sg33z]
+[12:08:02] [Client thread/INFO]: [CHAT] Given [item.wand.name] * 1 to sg33z
+[12:08:11] [Server thread/INFO]: Saving and pausing game...
+[12:08:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:08:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:08:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:08:34] [Server thread/INFO]: [sg33z: Set own game mode to Creative Mode]
+[12:08:34] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[12:08:35] [Server thread/INFO]: sg33z has just earned the achievement [Taking Inventory]
+[12:08:35] [Client thread/INFO]: [CHAT] sg33z has just earned the achievement [Taking Inventory]
+[12:09:34] [Server thread/INFO]: [sg33z: Set own game mode to Survival Mode]
+[12:09:34] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[12:10:06] [Server thread/INFO]: Saving and pausing game...
+[12:10:06] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:10:06] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:10:06] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:11:00] [Server thread/INFO]: [sg33z: Given Hunger (ID 17) * 255 to sg33z for 5 seconds]
+[12:11:00] [Client thread/INFO]: [CHAT] Given Hunger (ID 17) * 255 to sg33z for 5 seconds
+[12:11:32] [Server thread/INFO]: Saving and pausing game...
+[12:11:32] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:11:32] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:11:32] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:12:19] [Server thread/INFO]: Saving and pausing game...
+[12:12:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:12:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:12:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:12:59] [Server thread/INFO]: [sg33z: Set own game mode to Creative Mode]
+[12:12:59] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[12:14:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2379ms behind, skipping 47 tick(s)
+[12:14:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3113ms behind, skipping 62 tick(s)
+[12:15:09] [Server thread/INFO]: Saving and pausing game...
+[12:15:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:15:10] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:15:10] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:15:11] [Server thread/INFO]: Stopping server
+[12:15:11] [Server thread/INFO]: Saving players
+[12:15:11] [Server thread/INFO]: Saving worlds
+[12:15:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:15:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:15:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:15:47] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:15:47] [Server thread/INFO]: Generating keypair
+[12:15:47] [Server thread/INFO]: Preparing start region for level 0
+[12:15:48] [Server thread/INFO]: Preparing spawn area: 40%
+[12:15:49] [Server thread/INFO]: Preparing spawn area: 64%
+[12:15:50] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:15:50] [Server thread/INFO]: sg33z[local:E:950af45e] logged in with entity id 12667 at (255.97904581918021, 67.0, 143.42220805031005)
+[12:15:50] [Server thread/INFO]: sg33z joined the game
+[12:15:54] [Server thread/INFO]: Saving and pausing game...
+[12:15:54] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:15:54] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:15:54] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:16:09] [Server thread/INFO]: Saving and pausing game...
+[12:16:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:16:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:16:09] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:17:47] [Server thread/INFO]: [sg33z: Set own game mode to Survival Mode]
+[12:17:47] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[12:17:53] [Server thread/INFO]: Saving and pausing game...
+[12:17:53] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:17:53] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:17:53] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:19:00] [Server thread/INFO]: Saving and pausing game...
+[12:19:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:19:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:19:00] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:21:27] [Server thread/INFO]: [sg33z: Given [item.wand.name] * 64 to sg33z]
+[12:21:27] [Client thread/INFO]: [CHAT] Given [item.wand.name] * 64 to sg33z
+[12:21:37] [Server thread/INFO]: [sg33z: Given Hunger (ID 17) * 255 to sg33z for 100 seconds]
+[12:21:37] [Client thread/INFO]: [CHAT] Given Hunger (ID 17) * 255 to sg33z for 100 seconds
+[12:22:04] [Server thread/INFO]: sg33z was slain by Zombie
+[12:22:04] [Client thread/INFO]: [CHAT] sg33z was slain by Zombie
+[12:22:06] [Server thread/INFO]: Saving and pausing game...
+[12:22:06] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:22:06] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:22:06] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:22:08] [Client thread/INFO]: Stopping!
+[12:22:08] [Server thread/INFO]: Stopping server
+[12:22:08] [Server thread/INFO]: Saving players
+[12:22:08] [Server thread/INFO]: Saving worlds
+[12:22:08] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:22:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:22:09] [Server thread/INFO]: Saving chunks for level 'New World'/The End

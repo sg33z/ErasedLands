@@ -1,0 +1,32 @@
+[09:06:52] [main/INFO]: Setting user: warmswm@gmail.com
+[09:06:55] [Client thread/INFO]: LWJGL Version: 2.9.1
+[09:07:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[09:07:14] [Sound Library Loader/INFO]: Sound engine started
+[09:07:17] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[09:07:17] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[09:07:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[09:07:18] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[09:07:18] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[09:07:19] [Sound Library Loader/INFO]: Sound engine started
+[09:07:26] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[09:07:26] [Server thread/INFO]: Generating keypair
+[09:07:26] [Server thread/INFO]: Preparing start region for level 0
+[09:07:27] [Server thread/INFO]: Preparing spawn area: 43%
+[09:07:28] [Server thread/INFO]: Preparing spawn area: 95%
+[09:07:29] [Server thread/INFO]: Changing view distance to 12, from 10
+[09:07:29] [Server thread/INFO]: warmswm@gmail.com[local:E:b747fb65] logged in with entity id 561 at (167.9083723374282, 63.0, 258.63354848696275)
+[09:07:30] [Server thread/INFO]: warmswm@gmail.com joined the game
+[09:07:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2864ms behind, skipping 57 tick(s)
+[09:07:34] [Server thread/INFO]: <warmswm@gmail.com> g
+[09:07:34] [Client thread/INFO]: [CHAT] <warmswm@gmail.com> g
+[09:07:37] [Client thread/INFO]: Warning: Clientside chunk ticking took 475 ms
+[09:07:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 395 ms
+[09:07:40] [Client thread/INFO]: Stopping!
+[09:07:40] [Server thread/INFO]: Stopping server
+[09:07:40] [Server thread/INFO]: Saving players
+[09:07:40] [Server thread/INFO]: Saving worlds
+[09:07:40] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:07:40] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:07:40] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:07:41] [Client Shutdown Thread/INFO]: Stopping server
+[09:07:41] [Client Shutdown Thread/INFO]: Saving players
