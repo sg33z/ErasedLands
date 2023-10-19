@@ -1,0 +1,11 @@
+[
+{
+  "modid": "erasedlands",
+  "name": "Erased Land's",
+  "description": "Мод для курсовой по Java написанный на базе Minecraft Forge API",
+  "authorList": ["Sultan Kairat"],
+  "screenshots": [],
+  "version": "${version}",
+    "mcversion": "${mcversion}"
+}
+]
