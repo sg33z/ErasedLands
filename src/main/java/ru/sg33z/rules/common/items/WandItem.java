@@ -13,7 +13,7 @@ import ru.sg33z.rules.Sg33zMod;
             super(10, 5F, false);
             setPotionEffect(1, 30, 50, 0.9f);
 
-            setUnlocalizedName("wand");
+            setUnlocalizedName("erasedlands:wand");
             setTextureName(Sg33zMod.MOD_ID + ":wand");
             setMaxStackSize(64);
             setHasSubtypes(true);
